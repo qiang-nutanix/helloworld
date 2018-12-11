@@ -1,1 +1,2 @@
-app: FLASK_APP=hello.py flask run
+pip install Flask
+FLASK_APP=hello.py flask run
