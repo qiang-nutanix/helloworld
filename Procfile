@@ -1,2 +1,1 @@
-pip install Flask
-FLASK_APP=hello.py flask run
+web: flask run
